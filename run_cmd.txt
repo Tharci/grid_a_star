@@ -1,0 +1,1 @@
+g++ -o3 main.cpp application.cpp a_star.cpp arg_handling.cpp -w -lSDL2 -o main
