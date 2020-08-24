@@ -1,5 +1,5 @@
 # grid_a_star
-This is a graphical app implementing a_star algorithm to find the sortest path in a grid between two nodes.
+This is a desktop application for visualising A* algorithm that finds the sortest path in a grid between two cells.
 ## usage
   #### I. Drawing mode
   - **a**: set start point (colored green) and end point (colored yellow)
